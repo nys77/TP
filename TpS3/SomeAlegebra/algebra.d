@@ -1,0 +1,1 @@
+algebra.o: algebra.c
