@@ -92,7 +92,7 @@ int main(int argc, char *argv[])
   else if (argc==4)
   {
       Print_Doc(argv[2]);
-      printf()
+//      printf()
   }
   else
   {
